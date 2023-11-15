@@ -94,9 +94,10 @@
   .finished {
     background-color: #7076f4;
     color: #fff;
-    max-width: 450px;
+    max-width: 600px;
     width: 100%;
     padding: 1rem 2rem;
     margin-bottom: 2rem;
     transition: 0.5s;
+    margin: 0 auto 1rem;
   }

@@ -41,3 +41,9 @@
   .active > p {
     color: #7076f4;
   }
+
+  @media (max-width:414px){
+    .steps {
+      gap: 2rem;
+    }
+  }
